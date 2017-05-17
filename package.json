@@ -1,0 +1,42 @@
+{
+  "name": "bootstrap-one-page-marketing-design",
+  "version": "1.0.0",
+  "description": "simple one page marketing website design powered by bootstrap 4",
+  "main": "Gulpfile.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mrajanikanth/bootstrap-one-page-marketing-design/"
+  },
+  "keywords": [
+    "bootstrap",
+    "panini",
+    "sass",
+    "gulp"
+  ],
+  "author": "raj",
+  "license": "MIT",
+  "devDependencies": {
+    "autoprefixer": "^7.1.0",
+    "browser-sync": "^2.18.11",
+    "gulp": "^3.9.1",
+    "gulp-bootlint": "^0.8.1",
+    "gulp-cached": "^1.1.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-cssnano": "^2.1.2",
+    "gulp-environments": "^0.1.2",
+    "gulp-html": "^0.4.6",
+    "gulp-imagemin": "^3.2.0",
+    "gulp-postcss": "^7.0.0",
+    "gulp-sass": "^3.1.0",
+    "gulp-scss-lint": "^0.4.0",
+    "gulp-sourcemaps": "^2.6.0",
+    "gulp-uglify": "^2.1.2",
+    "imagemin-pngquant": "^5.0.0",
+    "mq4-hover-shim": "^0.3.0",
+    "panini": "^1.4.0",
+    "rimraf": "^2.6.1"
+  }
+}
